@@ -1,4 +1,10 @@
 %Inclass 14
+%Gb comments
+1 100 Could run a loop on the threshold parameters and define the “best” mask
+2a 100 
+2b 80 No comment on which  method is better and why.  
+Overall 93
+
 
 %Work with the image stemcells_dapi.tif in this folder
 % (1) Make a binary mask by thresholding as best you can
